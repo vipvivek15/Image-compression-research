@@ -1,0 +1,131 @@
+gray8bit
+
+1)city.bmp->city.jpg
+
+mse = 22.60
+rmse = 4.753
+psnr = 34.59
+cr = 12.86
+
+2)fireworks.bmp->fireworks.jpg
+mse = 8.143
+rmse = 2.854
+psnr = 39.02
+cr = 
+
+3)flower.bmp->flower.jpg
+mse = 1.671
+rmse = 1.292
+psnr = 45.90
+cr = 
+
+gray16bit
+
+1)city.bmp->city.jpg
+
+mse = 22.60
+rmse = 4.76
+psnr = 82.79
+
+2)fireworks.bmp->fireworks.jpg
+
+mse = 8.261
+rmse = 2.874
+psnr = 87.16
+
+3)flower.bmp->flower.jpg
+
+mse = 1.647
+rmse = 1.283
+psnr = 94.16
+
+gray16bitlinear
+
+1)city.bmp->city.jpg
+
+mse = 8.860
+rmse = 2.977
+psnr = 86.86
+
+2)fireworks.bmp->fireworks.jpg
+
+mse = 8.433
+rmse = 2.903
+psnr = 87.07
+
+3)flower.bmp->flower.jpg
+
+mse = 0.057
+rmse = 0.239
+psnr = 108.8
+
+rgb8bit
+
+1)city.bmp->city.jpg
+
+mse = 75.48
+rmse = 8.688
+psnr = 29.35
+
+2)fireworks.bmp->fireworks.jpg
+
+mse = 21.87
+rmse = 4.688
+psnr = 34.71
+
+3)flower.bmp->flower.jpg
+
+mse = 16.83
+rmse = 4.103
+psnr = 35.87
+
+rgb16bit
+
+1)city.bmp->city.jpg
+
+mse = 75.48
+rmse = 8.688
+psnr = 77.55
+
+2)fireworks.bmp->fireworks.jpg
+
+mse = 21.97
+rmse = 4.688
+psnr = 82.91
+
+3)flower.bmp->flower.jpg
+
+mse = 16.832
+rmse = 4.103
+psnr = 84.07
+
+rgb16bitlinear
+
+1)city.bmp -> city.jpg
+mse = 21.613
+rmse = 4.649
+psnr = 82.98
+
+2)fireworks.bmp -> fireworks.jpg
+mse = 27.11
+rmse = 5.206
+psnr = 82.00
+
+3)flower.bmp -> flower.jpg
+
+mse=0.6184
+rmse = 0.7864
+psnr = 98.42
+
+
+
+
+
+ 
+
+
+
+
+
+
+
